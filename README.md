@@ -89,7 +89,7 @@ enviroMS dump-corems-template CoremsFile.json
 make sure to include CoremsFile.json path inside the EnviromsFile.json: "corems_json_path": "path_to_CoremsFile.json" 
 
 ```bash
-enviroMS run-di path_to_MetamsFile.json
+enviroMS run-di path_to_EnviromsFile.json
 ```
 
 ## MiniWDL 
