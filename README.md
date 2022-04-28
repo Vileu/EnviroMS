@@ -79,7 +79,7 @@ To be able to open thermo raw files a installation of pythonnet is needed:
 
 
 ```bash
-enviroMS dump-corems-enviroms-template EnviromsFile.json
+enviroMS dump-di-template EnviromsFile.json
 ```
 ```bash
 enviroMS dump-corems-template CoremsFile.json
